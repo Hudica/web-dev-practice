@@ -1,0 +1,19 @@
+{
+  "name": "web-dev-practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hudica/web-dev-practice.git"
+  },
+  "author": "Hudson Kass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hudica/web-dev-practice/issues"
+  },
+  "homepage": "https://github.com/Hudica/web-dev-practice#readme"
+}
