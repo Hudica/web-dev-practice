@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "practice",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Hudica/web-dev-practice/issues"
   },
-  "homepage": "https://github.com/Hudica/web-dev-practice#readme"
+  "homepage": "https://github.com/Hudica/web-dev-practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
